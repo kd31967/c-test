@@ -15,7 +15,7 @@ pipeline {
 		stage('Clone-Repo') {
 			steps {
 				
-				git 'https://github.com/kd31967/dotnetall.git'
+				git 'https://github.com/kd31967/c-test.git'
 			}
 		}
 		
